@@ -1,7 +1,7 @@
 {
-  "name": "LARA-MD",
+  "name": "AURORA-MD",
   "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "logo": "https://files.catbox.moe/i4chee.png,
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,13 +14,13 @@
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "919633408499",
       "required": true,
       "value": "94779062397"
     },
 
     "DEV": {
-      "description": "Bot Developer Numeber",
+      "description": "919633408499",
       "required": true,
       "value": "94779062397"
     },
